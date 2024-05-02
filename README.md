@@ -22,8 +22,6 @@ The motivation behind this project stems from the lack of mandatory feedback sys
 
 Existing platforms often lack mandatory feedback systems, hindering individuals' ability to improve and develop projects. Call-of-Project fills this gap by providing a dynamic ecosystem where users can not only find exciting projects but also receive feedback, collaborate effectively, and grow professionally.
 
-###
-
 <h2 align="left">Languages/Frameworks/Database</h2>
 
 ###
@@ -80,3 +78,6 @@ Existing platforms often lack mandatory feedback systems, hindering individuals'
 - [Nuri Can ÖZTÜRK](https://github.com/nuricanozturk01)
 - [Emir KAFADAR](https://github.com/EmirKafadar)
 - [Ahmet KOÇ](https://github.com/ahmetkoc35)
+
+## Important Note:
+__Our project's some parts may not meet the desired standards or may not be coded as we wish due to our limited time frame, our novelty in the industry, and our lack of sufficient experience. Please take this into consideration while reviewing.__
