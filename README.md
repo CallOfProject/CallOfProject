@@ -24,7 +24,10 @@ Existing platforms often lack mandatory feedback systems, hindering individuals'
 
 ## Trailer
 https://github.com/CallOfProject/CallOfProject/assets/147416047/d29fa786-1327-45fb-9207-b82ee9e7d967
-
+- **Trailer v2**
+<a href="https://www.youtube.com/watch?v=HCYdue6QRCc">
+  <img src="https://github.com/CallOfProject/CallOfProject/assets/147416047/cb9743d6-92bb-42e0-aaed-13bb8ff9eb1a" alt="image">
+</a>
 
 
 <h2 align="left">Languages/Frameworks/Database</h2>
